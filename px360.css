@@ -255,7 +255,7 @@
         height:70vh;
         border-radius:2%;
         margin:8%;
-        margin-left:1%;
+        margin-left:0.3%;
         overflow:hidden;
         border:3px solid rgb(51, 48, 48)
     }
@@ -331,7 +331,7 @@
     }
     #section1-fade{ 
         margin-top:75px;
-        font-size:13px;
+        font-size:32px;
         text-align:left;
         margin-left:10px;
         font-family:comic sans ms;
@@ -356,7 +356,7 @@
         height:105vh;
         border-radius:2%;
         margin:20%;
-        margin-left:1%;
+        margin-left:0.3%;
         overflow:hidden;
         border:3px solid rgb(51, 48, 48)
     }
@@ -441,7 +441,7 @@
         height:105vh;
         border-radius:2%;
         margin:20%;
-        margin-left:1%;
+        margin-left:0.3%;
         overflow:hidden;
         border:3px solid rgb(51, 48, 48)
     }
@@ -533,7 +533,7 @@
         height:105vh;
         border-radius:2%;
         margin:20%;
-        margin-left:1%;
+        margin-left:0.3%;
         overflow:hidden;
         border:3px solid rgb(51, 48, 48)
     }
@@ -615,7 +615,7 @@
         height:75vh;
         border-radius:2%;
         margin:20%;
-        margin-left:1%;
+        margin-left:0.3%;
         overflow:hidden;
         border:3px solid rgb(51, 48, 48)
     }
@@ -697,7 +697,7 @@
         height:85vh;
         border-radius:2%;
         margin:20%;
-        margin-left:1%;
+        margin-left:0.3%;
         overflow:hidden;
         border:3px solid rgb(51, 48, 48)
     }
@@ -779,7 +779,7 @@
         height:110vh;
         border-radius:2%;
         margin:20%;
-        margin-left:1%;
+        margin-left:0.3%;
         overflow:hidden;
         border:3px solid rgb(51, 48, 48)
     }
@@ -866,7 +866,7 @@
         height:110vh;
         border-radius:2%;
         margin:20%;
-        margin-left:1%;
+        margin-left:0.3%;
         overflow:hidden;
         border:3px solid rgb(51, 48, 48)
     }
@@ -915,7 +915,7 @@
         height:160vh;
         border-radius:2%;
         margin:3%;
-        margin-left:1%;
+        margin-left:0.3%;
         overflow:hidden;
         border:3px solid rgb(51, 48, 48)
     }
@@ -1057,7 +1057,7 @@
         height:114vh;
         border-radius:2%;
         margin-top:19%;
-        margin-left:1%;
+        margin-left:0.3%;
         overflow:hidden;
         border:3px solid rgb(51, 48, 48);
         text-align: center;
